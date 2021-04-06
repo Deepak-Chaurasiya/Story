@@ -1,0 +1,9 @@
+in this tutotial we are going to learn about git verion control 
+git version is used for push pulling or commit on a particular file on git hub 
+
+too make git file we first have to initialize git in our project director by writing the below command
+git init
+
+-- i --
+
+
